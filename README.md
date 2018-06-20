@@ -1,4 +1,4 @@
-# Ethereum-IPFS-React App
+# Conducting Private Business on a Public Blockchain
 
 Before you run the project, you will need an instance of the Etheruem blockchain running, as well as MetaMask which is used to interact with the blockchain from your browser.
 
